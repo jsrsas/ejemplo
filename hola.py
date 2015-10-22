@@ -1,3 +1,3 @@
 print("Hola mundo!")
 
-print("Clase de métodos computacionales. Semana 13.")
+print("Clase de metodos computacionales. Semana 13.")
